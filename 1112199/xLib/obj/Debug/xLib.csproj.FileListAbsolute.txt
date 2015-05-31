@@ -1,0 +1,5 @@
+F:\CNTT\Design Pattern\1112199\xLib\bin\Debug\xLib.dll
+F:\CNTT\Design Pattern\1112199\xLib\bin\Debug\xLib.pdb
+F:\CNTT\Design Pattern\1112199\xLib\obj\Debug\xLib.csprojResolveAssemblyReference.cache
+F:\CNTT\Design Pattern\1112199\xLib\obj\Debug\xLib.dll
+F:\CNTT\Design Pattern\1112199\xLib\obj\Debug\xLib.pdb
